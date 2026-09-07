@@ -1,46 +1,15 @@
-// ============ СТУЛ ============
-
-// 1. СИДЕНЬЕ
-box { <2, -3, 18>, <8, -2, 22>
-    texture { pigment { color rgb<0.85, 0.60, 0.25> } }
-}
-
-// 2. СПИНКА
-box { <2, -2, 21>, <8, 2, 22>
-    texture { pigment { color rgb<0.85, 0.60, 0.25> } }
-}
-
-// 3. ПЕРЕДНЯЯ ЛЕВАЯ НОЖКА
-box { <2.5, -10, 18>, <3.5, -3, 19>
-    texture { pigment { color rgb<0.75, 0.75, 0.78> } }
-}
-
-// 4. ПЕРЕДНЯЯ ПРАВАЯ НОЖКА
-box { <6.5, -10, 18>, <7.5, -3, 19>
-    texture { pigment { color rgb<0.75, 0.75, 0.78> } }
-}
-
-// 5. ЗАДНЯЯ ЛЕВАЯ НОЖКА + СПИНКА (одна труба снизу до верха)
-box { <2.5, -10, 21>, <3.5, 2, 22>
-    texture { pigment { color rgb<0.75, 0.75, 0.78> } }
-}
-
-// 6. ЗАДНЯЯ ПРАВАЯ НОЖКА + СПИНКА
-box { <6.5, -10, 21>, <7.5, 2, 22>
-    texture { pigment { color rgb<0.75, 0.75, 0.78> } }
-}
-
-// 7. ЛЕВЫЙ ПОЛОЗ (горизонталь назад)
-box { <2.5, -10, 22>, <3.5, -9, 26>
-    texture { pigment { color rgb<0.75, 0.75, 0.78> } }
-}
-
-// 8. ПРАВЫЙ ПОЛОЗ
-box { <6.5, -10, 22>, <7.5, -9, 26>
-    texture { pigment { color rgb<0.75, 0.75, 0.78> } }
-}
-
-// 9. ПЕРЕМЫЧКА МЕЖДУ ПОЛОЗЬЯМИ
-box { <2.5, -10, 25>, <7.5, -9, 26>
-    texture { pigment { color rgb<0.75, 0.75, 0.78> } }
-}
+manga-style close-up character portrait, low-angle dramatic shot, 
+young energetic pirate boy, messy spiky short black hair with a few loose strands falling over forehead, 
+sharp round eyes wide open with intense excited expression, small scar under left eye, 
+big open-mouthed grin showing upper and lower teeth, sense of chaotic joy and confidence, 
+wearing a large woven straw hat with a dark red ribbon band tilted back on his head, 
+frayed straw texture rendered with fine linework, 
+right arm extended toward the viewer with index finger pointing directly at camera, 
+foreshortened perspective making the hand appear large and close, fingers slightly bent, visible knuckle creases and skin texture lines, 
+tattered open red jacket with rolled sleeves, worn fabric edges, brass buttons, 
+bare tanned chest visible underneath, small scars and scratches on skin, 
+plain white background with light speed-line motion marks behind the shoulder suggesting quick movement, 
+black and white manga inking style, bold thick outlines, fine crosshatching for shadows, 
+high contrast lighting from upper left, halftone-free clean line art, 
+sense of motion and mischievous heroic energy, shonen adventure comic aesthetic, 
+ultra detailed line work, professional manga illustration quality
